@@ -13,7 +13,6 @@ A modern, responsive React frontend for the Mack Kicks sneaker store, designed t
 - Node.js (v16 or higher)
 - npm or yarn package manager
 - FastAPI backend running (for API integration)
-
 ## 🔧 Installation
 
 ### 1. Clone the repository
